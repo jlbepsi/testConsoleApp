@@ -17,6 +17,7 @@ namespace ConsoleApp
 						// Modif 2 dans branche devfile
 						// Merge depuis main effectué
 						// Modif 3 depuis la branche devfile
+						// des modif ont été faites sur l'autre branche
 				}
     }
 }
