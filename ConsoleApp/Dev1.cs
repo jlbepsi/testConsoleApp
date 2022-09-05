@@ -10,5 +10,10 @@ namespace ConsoleApp
         {
             Console.WriteLine("Dev1 - ctor - version 2");
         }
+
+				void FileDev()
+				{
+						// Ajout dans la branche filedev
+				}
     }
 }
