@@ -18,6 +18,7 @@ namespace ConsoleApp
 						// Merge depuis main effectué
 						// Modif 3 depuis la branche devfile
 						// Pull request depuis github
+						// Ajout de sub1dv dans la branche devfile
 				}
     }
 }
